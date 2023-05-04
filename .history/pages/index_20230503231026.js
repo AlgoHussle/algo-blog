@@ -7,7 +7,7 @@ const posts = [
   { title: 'React Testing With Tailwind', excerpt: 'learn React Testing With Tailwind'},
 ];
 
-export default function Home() {
+export default function Home({ po}) {
   return (
     <div className='container mx-auto px-10 mb-8'>
       <Head>

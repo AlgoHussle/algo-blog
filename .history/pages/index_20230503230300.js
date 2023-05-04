@@ -9,7 +9,7 @@ const posts = [
 
 export default function Home() {
   return (
-    <div className='container mx-auto px-10 mb-8'>
+    <div className='container mx-auto px-10 mb-8 bg-gray-50'>
       <Head>
         <title>CMS Blog</title>
         <link rel="icon" href="/favicon.ico" />

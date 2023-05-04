@@ -11,7 +11,7 @@ function Header() {
                 <Link
                 href="/"
                 >
-                <span className='cursor-pointer font-bold text-4xl text-white'>
+                <span className='cursor-pointer font-bold text-4xl text0white'>
                         Algos Blog
                 </span>
                 </Link>

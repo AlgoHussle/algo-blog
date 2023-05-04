@@ -6,8 +6,8 @@ import "tailwindcss/tailwind.css";
 
 export default function App({ Component, pageProps }) {
   return (
-    <Layout>
+    <layout>
     <Component {...pageProps} />
-  </Layout>
+  </layout>
   ); 
 }
